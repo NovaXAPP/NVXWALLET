@@ -19,3 +19,22 @@
 ```bash
 npm install
 npm run dev
+🧩 Estructura del Proyecto
+src/
+ ├── index.ts
+ ├── WalletRoot.tsx
+ ├── styles.css
+vite.config.cjs
+🌐 Proyecto Oficial
+
+🔗 https://novax.site
+
+👨‍🚀 Autor
+
+NovaX Corp LLC — Web3 & FinTech Division
+
+Guarda y ejecuta:
+```bash
+git add README.md
+git commit -m "Agregado README profesional"
+git push
